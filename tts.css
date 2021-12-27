@@ -6,6 +6,7 @@ h1{
 	font-family: sans-serif;
 }
 .box{
+	position: absolute;
 	margin: 10% 30% 20% 30%; 
 	padding: 20px;
 	text-align: center;
@@ -17,9 +18,8 @@ h1{
 	font-size: 20px;
 }
 textarea{
+	position: relative;
 	border: 3px gray solid;
-	width: 500px;
-	height: 300px;
 	padding-right: 40px;
 
 }
